@@ -89,7 +89,7 @@
 
 #home::before {
     content: "";
-    background: url(/img/bg.jpeg) no-repeat center center/cover;
+    background: url(img/bg.jpeg) no-repeat center center/cover;
     position: absolute;
     height: 642px;
     top: 0px;
@@ -160,7 +160,7 @@
     height: 86%;
     z-index: -1;
     opacity: 0.7;
-    background: url(/img/bg.jpeg) no-repeat center center/cover;
+    background: url(img/bg.jpeg) no-repeat center center/cover;
     padding-top: 123px; 
     
 }
@@ -193,7 +193,7 @@
 #Client-section::before{
     content: "";
     position: absolute;
-    background:url(/img/food1.jpg) ;
+    background:url(img/food1.jpg) ;
     width: 100%;
     height: 0;
     z-index: -1;
