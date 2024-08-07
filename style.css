@@ -216,6 +216,7 @@
 
 }
 #contact-box label,#contact-box textarea{
+    border: none;
     font-size: 1.3rem;
     font-family: Bree serif;
 }
