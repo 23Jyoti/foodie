@@ -21,14 +21,12 @@
 #logo {
     height: 73px;
     margin: 34px 45px;
-
 }
 
 #logo img {
     height: 73px;
     margin: 0px 2px;
     border-radius: 200px;
-
 }
 
 /*Navigation Bar: List Styling */
@@ -56,7 +54,6 @@
 }
 
 #navbar ul li {
-
     list-style: none;
     font-size: 1.3rem;
 }
@@ -78,7 +75,7 @@
 
 /* Home Section */
 #home {
-    font-family: cursive;
+    font-family: Bree serif;
     display: flex;
     flex-direction: column;
     padding: 6px 200px;
@@ -97,7 +94,6 @@
     width: 100%;
     z-index: -1;
     opacity: 0.89;
-
 }
 
 #home h1 {
@@ -117,7 +113,6 @@
     margin: -92px -1px;
 }
 
-
 #services .box {
     border: 2px solid white;
     padding: 34px 34px;
@@ -133,20 +128,12 @@
     height: 160px;
     margin: auto;
     display: block;
-
-
 }
 
 #services .box p{
     font-family: cursive;
 
 }
-
-/* .services-container{
-    height: 200px;
-    width: 200px;
-
-} */
 
 /* Contact section */
 #contact{
@@ -162,7 +149,6 @@
     opacity: 0.7;
     background: url(img/bg.jpeg) no-repeat center center/cover;
     padding-top: 123px; 
-    
 }
 
 /* Client Section */
@@ -215,7 +201,6 @@
 }
 #contact-box form{
     width: 40%;
-
 }
 #contact-box label, #contact-box textarea{
     border: none;
@@ -224,7 +209,7 @@
 }
 
 footer{
-    background-color: black;
+    background-color: rgb(22, 21, 24);
     color: white;
     padding: 9px 20px;
 }
@@ -232,17 +217,17 @@ footer{
 /* Utility Classes */
 .h-primary {
     font-size: 3.8rem;
-    font-family: cursive;
+    font-family: Bree serif;
 }
 
 h2 .h-secondary {
     font-size: 1.3rem;
     padding: 19px 0px;
-    font-family: cursive;
+    font-family: Bree serif;
 }
 
 .btn {
-    font-family: cursive;
+    font-family: Bree serif;
     padding: 6px 20px;
     border: 2px solid white;
     color: black;
@@ -257,3 +242,4 @@ h2 .h-secondary {
 .center {
     text-align: center;
 }
+
